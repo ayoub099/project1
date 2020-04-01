@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126368721226",
+    "firebase_url": "https://winekproject.firebaseio.com",
+    "project_id": "winekproject",
+    "storage_bucket": "winekproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126368721226:android:8a720d962add797b0f79b3",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126368721226-4j9crcog0kpugk13ugmle6a7rcehrdug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDATKIqnxvvtoL6losZja8IXsln80GlDpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126368721226-4j9crcog0kpugk13ugmle6a7rcehrdug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
